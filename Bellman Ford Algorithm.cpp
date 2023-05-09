@@ -106,7 +106,7 @@ int main()
     int E = 8; // Number of edges in graph
     struct Graph* graph = createGraph(V, E);
 
-    // add edge 0-1 (or A-B in above figure)   //A=0, B=1, C=2, D=3, C=4
+    // add edge 0-1 (or A-B in above figure)   //A=0, B=1, C=2, D=3, E=4
     graph->edge[0].src = 0;
     graph->edge[0].dest = 1;
     graph->edge[0].weight = -1;
