@@ -20,4 +20,7 @@
 <br>Time Complexity - O(V * E)
 <br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Bellman%20Ford%20Algorithm.cpp
 
+* Huffman Coding
+<br>Time Complexity - O(n log n)
+<br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Huffman%20Coding.cpp
 
