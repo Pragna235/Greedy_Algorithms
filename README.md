@@ -6,7 +6,7 @@
 <br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Application%20of%20Greedy%20Approach.cpp
 
 * Application of Greedy Approach - Above Problem (0/1 Knapsack)
-<br> Time Complexity - 
+<br> Time Complexity - O(n log n)
 <br> https://github.com/Pragna235/Greedy_Algorithms/blob/main/Application%20of%20Greedy%20Approach2.cpp
 
 
