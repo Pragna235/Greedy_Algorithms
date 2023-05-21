@@ -27,10 +27,12 @@ int findMaxProfit(Packet packets[], int n, int capacity) {
     for (int i = 0; i < n; ++i) {
         if (packets[i].weight <= capacity) {
             // Take the whole packet as it fits in the capacity
+            cout<<"Included Packet index = "<<i+1<<endl;
             maxProfit += packets[i].profit;
             capacity -= packets[i].weight;
         } else {
             // Take a fraction of the packet as per the remaining capacity
+            cout<<"Fractionally included Packet index = "<<i+1<<endl;
             double fraction = static_cast<double>(capacity) / packets[i].weight;
             maxProfit += static_cast<int>(fraction * packets[i].profit);
             break; // No more packets can be accommodated
