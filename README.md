@@ -17,3 +17,7 @@
 <br>Time Complexity - O(n log n)
 <br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Huffman%20Coding.cpp
 
+* Dijkstra's ALgorithm in C++
+<br>Time Complexity - O(n^2) (but with priority queue, it can be reduced to O(V + E log V)
+<br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Dijkstra%20Algorithm%20(1).cpp
+
