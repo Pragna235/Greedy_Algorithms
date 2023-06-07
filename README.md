@@ -21,3 +21,8 @@
 <br>Time Complexity - O(n^2) (but with priority queue, it can be reduced to O(V + E log V)
 <br>https://github.com/Pragna235/Greedy_Algorithms/blob/main/Dijkstra%20Algorithm%20(1).cpp
 
+* Minimum Coin Change Problem in C++
+<br> Time Complexity = O(V)
+<br> Space Complexity = O(V)
+<br> https://github.com/Pragna235/Greedy_Algorithms/blob/main/Minimum%20Coin%20Change%20Problem.cpp
+
